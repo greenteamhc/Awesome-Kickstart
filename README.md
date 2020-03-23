@@ -13,6 +13,20 @@
 
 
 ## Categories
+<<<<<<< HEAD
+- [Awesome Kickstart for Hacking](#awesome-kickstart-for-hacking)
+  - [Categories](#categories)
+  - [Reversing](#reversing)
+  - [Exploitation](#exploitation)
+  - [Crypto](#crypto)
+  - [Forense](#forense)
+  - [Web](#web)
+  - [Lockpicking](#lockpicking)
+  - [Hardware](#hardware)
+  - [CTF](#ctf)
+  - [Git](#git)
+  - [News](#news)
+=======
 - [Reversing](#reversing)
 - [Exploitation](#Exploitation)
 - [Crypto](#Crypto)
@@ -23,12 +37,19 @@
 - [CTF](#CTF)
 - [Git]()
 - [News](#News)
+>>>>>>> cf659ae82b433bf77737cddc157ad3c4fd3ab73c
 
 ## Reversing
 - [PT-BR]
     - [Curso de Eng. Reversa Online, criado e administrado por Fernando Merces, Pesquisador de Threats da Trend Micro](https://www.youtube.com/playlist?list=PLIfZMtpPYFP6zLKlnyAeWY1I85VpyshAA)
     - [Curso de Ghidra, ferramenta da NSA para R.E](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5orPxcOZBn5cLOu7WG8xuF)
     - [Playlist geral de Eng Rev do Mente Binária](https://www.youtube.com/playlist?list=PLIfZMtpPYFP6_YOrfX79YX79I5V6mS0ci)
+<<<<<<< HEAD
+- [ENG]
+  - [Eng Reversa 101 | Criado pela Amanda Roussseau](https://malwareunicorn.org/workshops/re101.html#0) [(@malwareunicorn)](https://twitter.com/malwareunicorn)
+  - [Eng Reversa para processadores ARM | Criado pela Azeria](https://azeria-labs.com/writing-arm-assembly-part-1/) [(@Fox0x01)](https://twitter.com/Fox0x01)
+=======
+>>>>>>> cf659ae82b433bf77737cddc157ad3c4fd3ab73c
 
 ## Exploitation
 - [PT-BR]
