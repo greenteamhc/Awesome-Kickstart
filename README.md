@@ -47,6 +47,7 @@
     - [Cryptoanalysis for noobs](https://medium.com/@Foucan/cryptoanalysis-for-noob-a30ef6a5a0e4)
 - [ENG]
     - [Curso de Cryptografia moderna, administradas pelo Prof. Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos)
+
 ## Forense
 
 ## Web
@@ -77,6 +78,7 @@
     - [HackTheBox](https://www.hackthebox.eu/)
     - [VulHub](https://www.vulnhub.com/)
     - [Hacker101](https://www.hacker101.com/)
+    - [Root me => ](https://www.root-me.org/?lang=en)<b>Excelente para inciantes</b>
 
 ## Git
 - [PT-BR]
