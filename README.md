@@ -45,6 +45,7 @@
 ## Crypto
 - [PT-BR]
     - [Cryptoanalysis for noobs](https://medium.com/@Foucan/cryptoanalysis-for-noob-a30ef6a5a0e4)
+    - [Material Complementar: Live de Paralelismo em Python =>](https://www.youtube.com/watch?v=FjJ1bClIa-o&list=PLOQgLBuj2-3KU6TnzJQJVfL5aiaOQuZ4o)<b>Ideal para a elaboração de programas que lidem com criptografia</b>
 - [ENG]
     - [Curso de Cryptografia moderna, administradas pelo Prof. Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos)
 
