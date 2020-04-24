@@ -57,6 +57,7 @@
     - [Explicando XSS](https://excess-xss.com/)
     - [SQL Injection CheatSheet](https://excess-xss.com/)
     - [LFI](https://www.exploit-db.com/docs/english/40992-web-app-penetration-testing---local-file-inclusion-(lfi).pdf)
+    - [PortSwinger Web Acaddemy](https://portswigger.net/web-security)
 
 ## Lockpicking
 - [PT-BR]
