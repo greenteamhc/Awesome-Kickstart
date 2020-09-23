@@ -14,17 +14,19 @@
 
 ## Categories
 - [Awesome Kickstart for Hacking](#awesome-kickstart-for-hacking)
-  - [Categories](#categories)
   - [Reversing](#reversing)
   - [Exploitation](#exploitation)
   - [Crypto](#crypto)
   - [Forense](#forense)
   - [Web](#web)
+  - [OSINT](#OSINT)
   - [Lockpicking](#lockpicking)
   - [Hardware](#hardware)
+  - [BioHacking](#BioHacking)
   - [CTF](#ctf)
   - [Git](#git)
   - [News](#news)
+  - [OldButGold](#Old%20But%20Gold)
 
 ## Reversing
 - [PT-BR]
@@ -60,6 +62,17 @@
     - [LFI](https://www.exploit-db.com/docs/english/40992-web-app-penetration-testing---local-file-inclusion-(lfi).pdf)
     - [Portswigger Web Acaddemy](https://portswigger.net/web-security)
 
+## OSINT
+- [PT-BR]
+    - [Portal da Transparêcia](http://www.portaltransparencia.gov.br/)
+
+- [ENG]
+    - [OSINT Framework](https://osintframework.com/)
+    - [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
+    - [DataMiner](https://data-miner.io/)
+    - [OSINT Combine Free Tools](https://www.osintcombine.com/tools)
+    - [WayBackMachine](https://archive.org/web/)
+
 ## Lockpicking
 - [PT-BR]
     - [Lockpicking | Garoa Hacker Club](https://garoa.net.br/wiki/Lockpick)
@@ -69,6 +82,14 @@
     - [LockpickLawyer | Vídeos frequentes sobre lockpicking e bypass](https://www.youtube.com/channel/UCm9K6rby98W8JigLoZOh6FQ/featured)
     
 ## Hardware
+- [PT-BR]
+
+- [ENG]
+
+## BioHacking
+- [PT-BR]
+
+- [ENG]
 
 ## CTF
 - [PT-BR]
@@ -81,6 +102,7 @@
     - [VulHub](https://www.vulnhub.com/)
     - [Hacker101](https://www.hacker101.com/)
     - [Root me => ](https://www.root-me.org/?lang=en)<b>Excelente para inciantes</b>
+    - [TryHackeMe](https://tryhackme.com/)
 
 ## Git
 - [PT-BR]
@@ -96,6 +118,15 @@
     - [Mente Binária](https://www.mentebinaria.com.br/)
     - [TheHack](https://thehack.com.br/)
     - [Podcast SegurançaLegal](https://www.segurancalegal.com/)
+    - [Podcast HackerBrasil](https://open.spotify.com/show/1w1OuG4Eec3aViCuNATBXo)
 - [ENG]
     - [Hackaday](https://hackaday.com/)
     - [Darknet Diares](https://darknetdiaries.com/)
+
+## Old But Gold
+- [PT-BR]
+
+- [ENG]
+    - [Phrack Magazine](http://www.phrack.org/issues/69/1.html)
+    - [Hacker's Manifesto](http://phrack.org/issues/7/3.html)
+    - [Smashing The Stack For Fun And Profit](http://phrack.org/issues/49/14.html)
