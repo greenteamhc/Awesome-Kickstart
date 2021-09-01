@@ -14,6 +14,7 @@
 
 ## Categories
 - [Awesome Kickstart for Hacking](#awesome-kickstart-for-hacking)
+  - [Linux](#linux)
   - [Reversing](#reversing)
   - [Exploitation](#exploitation)
   - [Crypto](#crypto)
@@ -27,6 +28,15 @@
   - [Git](#git)
   - [News](#news)
   - [OldButGold](#Old%20But%20Gold)
+
+## Linux
+- [PT-BR]
+    - [O guia definitivo de Ubuntu para devs iniciantes](https://www.youtube.com/watch?v=epiyExCyb2s)
+    - [Curso Linux Básico - Certificação LPC-1](https://www.youtube.com/watch?v=UsHiWIgxj2M&list=PLucm8g_ezqNp92MmkF9p_cj4yhT-fCTl7)
+- [ENG]
+    - [Linux Command Line Cheat Sheet](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
+    - [Shell Script Guide](https://www.shellscript.sh/)
+    - [Shell Scripting Tutorial](https://www.tutorialspoint.com/unix/shell_scripting.htm)
 
 ## Reversing
 - [PT-BR]
@@ -122,6 +132,8 @@
 - [ENG]
     - [Hackaday](https://hackaday.com/)
     - [Darknet Diares](https://darknetdiaries.com/)
+    - [The Hacker News](https://thehackernews.com/)
+    - [HackRead](https://www.hackread.com/)
 
 ## Old But Gold
 - [PT-BR]
