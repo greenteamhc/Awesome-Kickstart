@@ -34,7 +34,7 @@
     - [O guia definitivo de Ubuntu para devs iniciantes](https://www.youtube.com/watch?v=epiyExCyb2s)
     - [Curso Linux Básico - Certificação LPC-1](https://www.youtube.com/watch?v=UsHiWIgxj2M&list=PLucm8g_ezqNp92MmkF9p_cj4yhT-fCTl7)
 - [ENG]
-    - [Linux Command Line Cheat Sheet](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
+    - [Bash Scripting Cheat Sheet](https://devhints.io/bash)
     - [Shell Script Guide](https://www.shellscript.sh/)
     - [Shell Scripting Tutorial](https://www.tutorialspoint.com/unix/shell_scripting.htm)
 
